@@ -8,11 +8,8 @@ I'm a Full Stack Web Developer passionate about building scalable, performant, a
   Developing and maintaining **Ekara**, a SaaS synthetic monitoring platform at **IP-LABEL**, using Node.js, Express, Vue.js, and PostgreSQL.
 
 - 🌱 I’m currently learning:  
-  Advanced database performance tuning, Kafka stream processing, and system design at scale.
-
-- 🤔 I’m looking for help with:  
-  Contributing to open source Node.js and DevOps projects, and improving my skills in AWS and distributed systems.
-
+  Setting up **data engineering pipelines** and deepening my knowledge in **distributed systems**.
+  
 - 💬 Ask me about:  
   RESTful APIs, Vue.js/React UI design, PostgreSQL optimization, Liquibase versioning, and collaborative software development.
 
