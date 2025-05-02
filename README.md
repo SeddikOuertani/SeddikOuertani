@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Seddik Ouertani
+## Hi there 👋 I'm Mohamed Seddik Ouertani
 
 I'm a Full Stack Web Developer passionate about building scalable, performant, and well-documented applications. I work mainly with Node.js, Vue.js, React, and PostgreSQL.
 
