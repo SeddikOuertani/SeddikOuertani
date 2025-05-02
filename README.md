@@ -23,8 +23,5 @@ I'm a Full Stack Web Developer passionate about building scalable, performant, a
 
 ---
 
-> 💼 Curious about my experience?  
-Check out my projects and pinned repos below—most of them reflect hands-on work in full-stack development using industry-grade tools.
-
-> 📜 Bonus:  
-I hold a certification in [Fundamentals of Deep Learning by NVIDIA](https://learn.nvidia.com/certificates?id=Xte7gmMQTqC2MU978VW3Rg?v=1.0.5).
+> 💼 Some of my projects   
+Check out my projects and pinned repos below
